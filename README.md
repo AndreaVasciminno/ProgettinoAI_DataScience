@@ -23,4 +23,4 @@ The work includes:
 * Analysis and visualization of the resulting clusters.
 * Critical discussion of evaluation metrics (e.g., Silhouette Score) and interpretation of the identified partitions.
 ---
-*This project has been developed for Introduction to Artificial Intelligence Course at University of Study of Milan-Bicocca *
+*This project has been developed for Introduction to Artificial Intelligence Course at University of Study of Milan-Bicocca*
